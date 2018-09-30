@@ -1,0 +1,45 @@
+body{
+	background: url('https://thespoon.tech/wp-content/uploads/2016/11/empty-grocery-store.jpg');
+	background-size: cover;
+	height:100%;
+	opacity: 0.8;
+}
+
+.App{
+	text-align: center;
+	padding: 5%;
+}
+
+.list-item{
+	display: inline-block;
+}
+
+.list-group-item {
+	margin: 2px 0px 2px 0px;
+  color: #fef65b;
+  font-weight: 700;
+  font-variant: all-petite-caps;
+	background-color: #2d2825;
+	transition: transform .5s;
+}
+
+.list-group-item:hover {
+	-ms-transform: scale(1.05); /* IE 9 */
+  -webkit-transform: scale(1.05); /* Safari 3-8 */
+  transform: scale(1.05);
+}
+
+.heading {
+	background-color: #fef65b;
+  font-weight: 800;
+  font-family: cursive;
+  font-size: 5rem;
+  width: 50%;
+  height: auto;
+  border-radius: 10px;
+}
+
+.right-button{
+	float: right;
+	cursor: pointer;
+}

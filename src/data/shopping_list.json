@@ -1,0 +1,57 @@
+[
+{
+"id": 0,
+"name": "Milk",
+"price": 7
+},
+{
+"id": 1,
+"name": "Protein Bar",
+"price": 10
+},
+{
+"id": 2,
+"name": "Corn Flakes",
+"price": 9
+},
+{
+"id": 3,
+"name": "Coffee Beans",
+"price": 6
+},
+{
+"id": 4,
+"name": "Soya Bean",
+"price": 8
+},
+{
+"id": 5,
+"name": "Potato",
+"intelligence": 7,
+"speed": 8
+},
+{
+"id": 6,
+"name": "Spinach",
+"intelligence": 8,
+"speed": 6
+},
+{
+"id": 7,
+"name": "Watermelon",
+"intelligence": 9,
+"speed": 7
+},
+{
+"id": 8,
+"name": "Almonds",
+"intelligence": 8,
+"speed": 8
+},
+{
+"id": 9,
+"name": "Cashewnuts",
+"intelligence": 9,
+"speed": 7
+}
+]
